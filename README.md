@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Umasha Rathnayaka 👋  
 
-<!--
-**Nuwandi1/Nuwandi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Software Engineering Student** passionate about **full-stack development** and I love building applications that solve real-world problems using modern technologies.  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack  
+- 🌐 **Frontend:** React.js, Flutter  
+- ⚙️ **Backend:** Node.js, Express.js  
+- 🛢️ **Database:** MongoDB  
+- 🔤 **Languages:** Java, Python, JavaScript  
+- 🔧 **Tools & Platforms:** Git, GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me  
+- 📧 Email: umasharathnayaka2001@gmail.com 
+- 🔗 LinkedIn: 
+ 
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**  
