@@ -12,8 +12,8 @@ I'm a **Software Engineering Student** passionate about **full-stack development
 
 
 ## 📫 Connect with Me  
-- 📧 Email: umasharathnayaka2001@gmail.com 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umasha-rathnayaka)
+- 📧 Email: umasharathnayaka2001@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umasha-rathnayaka)
  
 
 ---
